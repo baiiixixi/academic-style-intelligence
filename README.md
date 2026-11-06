@@ -4,7 +4,7 @@
 
 > **先理解研究，再选择表达方式。** 不把中文论文默认画成自变量—因变量框图，也不把英文算法论文默认画成神经网络架构图。
 
-[English README](README.en.md) · [使用示例](.agents/skills/academic-style-intelligence/references/examples.md)
+[使用示例](.agents/skills/academic-style-intelligence/references/examples.md)
 
 ## 这个 Skill 能做什么？
 
