@@ -29,7 +29,6 @@ $skill-installer 请从以下 GitHub 目录安装 academic-style-intelligence：
 https://github.com/baiiixixi/academic-style-intelligence/tree/main/.agents/skills/academic-style-intelligence
 ```
 
-**注意：** 这个目录需要先上传包含 `SKILL.md` 的文件后才会生效。安装时应指向包含 `SKILL.md` 的目录，不是仅提供仓库首页。
 
 安装后按 Codex 的提示重新打开会话或重启 Codex（如有必要），即可使用 `$academic-style-intelligence`。
 
